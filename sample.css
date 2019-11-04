@@ -1,0 +1,8 @@
+@charset "UTF-8";
+#form{
+	display:flex;
+	justify-content: space-between;
+}
+form {
+  width: 50%;
+}
